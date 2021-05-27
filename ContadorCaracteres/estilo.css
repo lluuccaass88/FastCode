@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: #7209b7;
+    color: white;
+}
+
+textarea{
+    border: 3px solid #B4E33D;
+}
+
+p{
+    color: #B4E33D;
+    font-size: 20px;
+}
+
+button{
+    background-color: #B4E33D;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: none;
+    border: none;
+}
